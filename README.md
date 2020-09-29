@@ -1,1 +1,2 @@
-# INST126
+# Calculator Project
+This project asks the users to choose an operation by presenting them with four options; (Addition, Subtraction, Multiplication and Division). Each operation is numbered from 1-4 which each number corresponding an operation with a condition: If the user chooses a number outside of the given range (1-4), an error will be shown, prevent them from running the code. The purpose of this project is to create a functioning calculator that successfully solves basic numeric operations. 
